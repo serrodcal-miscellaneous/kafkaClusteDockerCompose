@@ -10,6 +10,8 @@ After clone this repository in local, run:
 ~$ docker-compose up
 ```
 
+This project uses [Wurstmeister/Kafka](https://github.com/wurstmeister/kafka-docker) docker image, visit its README to get more info.
+
 ## Testing
 
 Install in your environment [kafkacat](https://github.com/edenhill/kafkacat), to be able to test your cluster (consume, produce, get info and so on).
